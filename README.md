@@ -12,7 +12,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Analysis Approach
 
-## 1. Customer Segmentation Analysis
+### 1. Customer Segmentation Analysis
 - Customers categorized based on total lifetime value (LTV)
 - Customers assigned to High, Mid, and Low-value segments
 - Key metrics calculated: total revenue
