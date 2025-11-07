@@ -101,5 +101,5 @@ Use customer-specific churn indicators to proactively trigger win-back campaigns
 
 ## Technical Details
 - **Database**: PostgreSQL
-- **Analysis Tools**: PostgreSQL
+- **Analysis Tools**: PostgreSQL, PGadmin
 - **Visualization**: Copilot
