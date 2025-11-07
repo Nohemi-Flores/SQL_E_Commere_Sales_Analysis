@@ -3,6 +3,8 @@
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 
+Data comes from [Luke's Barousse's SQL course](https://www.lukebarousse.com/int-sql).
+
 ## Business Questions
 1. **Customer Segmentation**: Who are our most valuable customers?
 
